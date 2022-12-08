@@ -1,0 +1,24 @@
+p {
+    background-color: red;
+    font-size: 100px;
+}
+
+p:nth-of-type(1) {
+    background-color: blue;
+}
+
+p:nth-of-type(5) {
+    background-color: blue;
+}
+
+p:nth-of-type(10) {
+    background-color: blue;
+}
+
+p:nth-of-type(6) {
+    opacity: 0.4;
+}
+
+p:nth-of-type(9) {
+    opacity: 0.6;
+}
