@@ -1,6 +1,7 @@
 p {
     background-color: red;
-    font-size: 100px;
+    width: 100px;
+    height: 100px;
 }
 
 p:nth-of-type(1) {
